@@ -3,6 +3,7 @@
 SpartaHack 9
 
 Winner [Interactive Media] Winner of the Track
+
 Winner [Dewpoint] Best Interactive Visualization Hack
 
 ## Description
