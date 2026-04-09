@@ -1,4 +1,4 @@
-# Mc
+# McByte
 
 SpartaHack 9
 
